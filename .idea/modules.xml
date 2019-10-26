@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayPrograms/ArrayPrograms.iml" filepath="$PROJECT_DIR$/ArrayPrograms/ArrayPrograms.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicPrograms/BasicPrograms.iml" filepath="$PROJECT_DIR$/BasicPrograms/BasicPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorPrograms/ConstructorPrograms.iml" filepath="$PROJECT_DIR$/ConstructorPrograms/ConstructorPrograms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
     </modules>
   </component>
